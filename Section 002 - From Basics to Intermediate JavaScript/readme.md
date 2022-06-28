@@ -1,1 +1,2 @@
-# section 2 - Intermediate
+# section 2 - Intermediate JS
+
