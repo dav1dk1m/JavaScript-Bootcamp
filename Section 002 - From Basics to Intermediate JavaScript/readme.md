@@ -1,2 +1,2 @@
-# section 2 - Intermediate JS
+# Section 002 - Intermediate JS
 
